@@ -1,0 +1,15 @@
+td {
+  border: 1px solid black;
+  background:  seagreen;
+  width:  200px;
+  height:  200px;
+}
+
+table {
+  border: 1px solid black;
+
+}
+
+td:hover {
+  background: aquamarine;
+}
