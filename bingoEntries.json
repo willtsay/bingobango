@@ -2,49 +2,57 @@
 	"a": [
 			"pepeHansA",
 			"testA",
-			"blepA"
+			"blepA",
+			"dingdongA"
 		]
 	,
 	"b": [
 			"pepeHansBB",
 			"testBB",
-			"blepBB"
+			"blepBB",
+			"dingdongB"
 		]
 	,
 	"c": [
 			"pepeHansC",
 			"testC",
-			"blepC"
+			"blepC",
+			"dingdongC"
 		]
 	,
 	"d": [
 			"pepeHansD",
 			"testD",
-			"blepD"
+			"blepD",
+			"dingdongD"
 		]
 	,
 	"e": [
 			"pepeHansE",
 			"testE",
-			"blepE"
+			"blepE",
+			"dingdongE"
 		]
 	,
 	"f": [
 			"pepeHansF",
 			"testF",
-			"blepF"
+			"blepF",
+			"dingdongF"
 		]
 	,
 	"g": [
 			"pepeHansG",
 			"testG",
-			"blepG"
+			"blepG",
+			"dingdongG"
 		]
 	,
 	"h": [
 			"pepeHansH",
 			"testH",
-			"blepH"
+			"blepH",
+			"dingdongH"
 		]
 	,
 }
