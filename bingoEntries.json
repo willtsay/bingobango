@@ -1,59 +1,50 @@
 {
-	"a": {
-		"entries": [
+	"a": [
 			"pepeHansA",
 			"testA",
 			"blepA"
 		]
-	},
-	"b": {
-		"entries": [
+	,
+	"b": [
 			"pepeHansB",
 			"testB",
 			"blepB"
 		]
-	},
-	"c": {
-		"entries": [
+	,
+	"c": [
 			"pepeHansC",
 			"testC",
 			"blepC"
 		]
-	},
-	"d": {
-		"entries": [
+	,
+	"d": [
 			"pepeHansD",
 			"testD",
 			"blepD"
 		]
-	},
-	"e": {
-		"entries": [
+	,
+	"e": [
 			"pepeHansE",
 			"testE",
 			"blepE"
 		]
-	},
-	"f": {
-		"entries": [
+	,
+	"f": [
 			"pepeHansF",
 			"testF",
 			"blepF"
 		]
-	},
-	"g": {
-		"entries": [
+	,
+	"g": [
 			"pepeHansG",
 			"testG",
 			"blepG"
 		]
-	},
-	"h": {
-		"entries": [
+	,
+	"h": [
 			"pepeHansH",
 			"testH",
 			"blepH"
 		]
-	},
-
+	,
 }
